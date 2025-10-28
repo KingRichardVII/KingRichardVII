@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B22222,200:DC143C&height=200&section=header&text=Hi%20there!%20I'm%20Richard%20🔥&fontSize=40&fontColor=ffffff&fontAlignY=35&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B22222,200:DC143C&height=200&section=header&text=Hi%20there!%20I'm%20Richard%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&width=100%"/>
 </p>
 
 <h3 align="center">💻 Computer Science Student at CSUN</h3>
@@ -47,10 +47,10 @@
   <a href="https://www.linkedin.com/in/king-richard-phan">
     <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:richardphan@example.com">
+  <a href="richard.phan626@gmail.com>
     <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://google.com">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
