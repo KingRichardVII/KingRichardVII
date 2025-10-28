@@ -18,6 +18,9 @@
 - [System Deadlock Detection](https://github.com/yourusername/System-Deadlock-Detection)
 - [Other Cool Project](https://github.com/yourusername/OtherProject)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-link)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://yourwebsite.com)
+
 ---
 
 ⭐️ _Thanks for visiting my profile!_
