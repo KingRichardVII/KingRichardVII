@@ -47,10 +47,10 @@
   <a href="https://www.linkedin.com/in/king-richard-phan">
     <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="richard.phan626@gmail.com>
+  <a href="richard.phan626A@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://google.com">
+  <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
