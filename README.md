@@ -1,10 +1,15 @@
-<!-- 🔥 Animated Header -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B22222,200:DC143C&height=200&section=header&text=Hi%20there!%20I'm%20Richard%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&width=100%"/>
 </p>
 
 <h3 align="center">💻 Computer Science Student at CSUN</h3>
 <p align="center"
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,linux" />
 </p>
 
 ---
@@ -24,7 +29,7 @@
 
 ---
 
-<!-- 🔥 Centered Footer -->
+<!-- Centered Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:8B0000,200:4B0000&height=100&section=footer&width=100%"/>
 </p>
