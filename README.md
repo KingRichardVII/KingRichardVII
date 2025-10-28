@@ -1,4 +1,4 @@
-                                                                # 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Your Name]!
 
 🎓 I'm a Computer Science student at [Your University]  
 💻 Passionate about systems programming, AI, and software design  
