@@ -9,10 +9,6 @@
   I'm Richie — thanks for checking out my profile! 👋
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,linux" />
-</p>
-
 ---
 
 ### 🔗 Let's Connect!
