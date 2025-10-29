@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em>🌐 My personal website is currently a work in progress — stay tuned!</em>
+  <em>🌐 personal website is a WIP — stay tuned!</em>
 </p>
 
 ---
