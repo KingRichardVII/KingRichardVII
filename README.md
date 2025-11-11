@@ -6,7 +6,7 @@
 <h3 align="center">💻 Computer Science Student at CSUN</h3>
 
 <p align="center">
-  I'm Richie — thanks for checking out my profile! 👋
+  I'm Richard — thanks for checking out my profile! 👋
 </p>
 
 ---
