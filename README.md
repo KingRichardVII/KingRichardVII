@@ -6,7 +6,7 @@
 <h3 align="center">💻 Computer Science Student @ CSUN</h3>
 
 <p align="center">
-  Hey there! I'm <strong>Richard</strong> — thanks for stopping by 👋
+  Hey there! Thanks for stopping by — I'm <strong>Richard</strong> 👋
 </p>
 
 ---
