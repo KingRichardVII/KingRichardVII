@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/king-richard-phan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:richard.phan626@gmail.com">
+  <a href="mailto:richard.phan.042@my.csun.edu">
     <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.youtube.com/watch?v=_77ouG147UM">
