@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em>🌐 Personal website coming soon, stay tuned!</em>
+  <em>🌐 Personal website in development, stay tuned. </em>
 </p>
 
 ---
