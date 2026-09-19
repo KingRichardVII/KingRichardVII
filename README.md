@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366,200:004080&height=200&section=header&text=Richard%20Phan&fontSize=45&fontColor=ffffff&fontAlignY=35&width=100%"/>
 </p>
 
-<h3 align="center">💻 Computer Science Student @ CSUN</h3>
+<h3 align="center">💻 Welcome to my Github. I post all of my nerdy projects here.</h3>
 
 <p align="center">
-  Hey there! Thanks for stopping by. I'm <strong>Richard</strong> 👋
+   Grab a snack, kick back, and tune in while I walk you through what I've been building
 </p>
 
 ---
